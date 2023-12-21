@@ -1,7 +1,10 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)-->
 ![MasterHead](https://user-images.githubusercontent.com/68038931/147838946-616b4ed7-2e9c-4c03-8cdd-65b2b00b2d79.gif)
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Abhinav Patel</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1600&lines=Hi+There!+👋;+I'm+Abhinav+Patel!;" />
+</h1>
+<!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Abhinav Patel</h1> -->
 <!-- <h3 align="center">A passionate Web developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
