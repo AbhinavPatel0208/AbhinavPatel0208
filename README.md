@@ -37,6 +37,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![dotnet](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet)
+
 ![GIT](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
