@@ -8,7 +8,25 @@
 <!-- <h3 align="center">A passionate Web developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpatel0208&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpatel0208" /> </p>
+<table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/abhinavpatel0208"> <img src="https://komarev.com/ghpvc/?username=abhinavpatel0208&style=for-the-badge&color=red"> </a>
+      </td>
+    </tr>
+  </table>
 
 - **I'm a passionate and creative web developer with a strong foundation in front-end and back-end technologies. My journey in the world of programming started with curiosity, and it quickly turned into my life's passion. I love turning ideas into interactive and user-friendly websites and web applications.**
 - **Fun fact**: I have a degree in 👷 MCA 
