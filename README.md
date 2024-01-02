@@ -41,7 +41,7 @@
 
 # 💻 Technologies & Tools :
 ***Languages*** : *C#, Pyhton, JavaScript, TypeScript* <Br/>
-***FrameWork*** : *ReactJS, AngularJS, ASP DOTNET Core* <Br/>
+***FrameWork*** : *ReactJS, Angular, ASP DOTNET Core* <Br/>
 ***Database*** : *MongoDB, MySQL ,SQl Server* <Br/>
 ***Version Control*** : *Git, GitHub* <Br/>
 ***Deployment*** : *Heroku, Netlify, Versel* <Br/>
