@@ -40,22 +40,23 @@
 
 
 # 💻 Technologies & Tools :
-***Languages*** : *C#, Pyhton, JavaScript* <Br/>
-***FrameWork*** : *ReactJS, ASP DOTNET Core* <Br/>
+***Languages*** : *C#, Pyhton, JavaScript, TypeScript* <Br/>
+***FrameWork*** : *ReactJS, AngularJS, ASP DOTNET Core* <Br/>
 ***Database*** : *MongoDB, MySQL ,SQl Server* <Br/>
 ***Version Control*** : *Git, GitHub* <Br/>
 ***Deployment*** : *Heroku, Netlify, Versel* <Br/>
 
 # 💻 Tech Stack:
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript)
 ![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Blazor](https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular)
+![Blazor](https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![dotnet](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet)
