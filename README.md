@@ -33,10 +33,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/AbhinavPatel0208)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhinavPatel0208)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/abhi.0208_/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhinavpatel0208@gmail.com)
+<a href="https://linkedin.com/in/AbhinavPatel0208" target="blank"><img align="center" src="https://github.com/AbhinavPatel0208/AbhinavPatel0208/assets/71115461/c84cf465-6e39-4490-95e2-c1fb3810ad0c " alt="Abhinav0208" height="40" width="40" /></a>
+<a href="mailto:abhinavpatel0208@gmail.com" target="blank"><img align="center" src="https://github.com/AbhinavPatel0208/AbhinavPatel0208/assets/71115461/b255e9c6-26b5-470a-ac72-b963e04c776f" alt="abhinavpatel0208@gmail.com" height="30" width="35" /></a>
+<a href="https://www.instagram.com/abhi.0208_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi0208_" height="30" width="40" /></a>
+<a href="https://leetcode.com/Abhinav0208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhinav0208" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhinavpatel0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinavpatel0208" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/Abhinav0208" target="blank"><img align="center" src="https://github.com/AbhinavPatel0208/AbhinavPatel0208/assets/71115461/a965eacc-ceca-4e97-bf42-d0ee23ef815b" alt="Abhinav0208" height="40" width="40" /></a>
+</p>
 
 
 # 💻 Technologies & Tools :
