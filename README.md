@@ -39,6 +39,8 @@
 <a href="https://leetcode.com/Abhinav0208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhinav0208" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinavpatel0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinavpatel0208" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/Abhinav0208" target="blank"><img align="center" src="https://github.com/AbhinavPatel0208/AbhinavPatel0208/assets/71115461/a965eacc-ceca-4e97-bf42-d0ee23ef815b" alt="Abhinav0208" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abhinavpatel0208" target="blank"><img align="center" src="https://github.com/AbhinavPatel0208/AbhinavPatel0208/assets/71115461/26b385a8-1afb-4fe1-9a6d-39885d0b0727" alt="abhinavpatel0208" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/@AbhinavPatel" target="blank"><img align="center" src="https://github.com/AbhinavPatel0208/AbhinavPatel0208/assets/71115461/7e7466af-8a02-4c66-941f-1bfd8eb6f468" alt="Abhinav0208" height="40" width="40" /></a>
 </p>
 
 
